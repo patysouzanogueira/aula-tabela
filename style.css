@@ -1,0 +1,36 @@
+body{
+    background-color: aliceblue;
+    color: black;
+}
+
+h1{
+    color: black;
+    font-size: 36px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+table, th,td{
+    border: 1px solid white;
+    padding: 5px 2px;
+}
+
+.conteudos{
+    color: white;
+    background-color: blueviolet;
+}
+
+.modelos,.estilo, .pe{
+    background-color: rgb(75, 70, 70);
+    color: white;
+}
+  
+
+.casa{
+    background-color: rgb(19, 128, 68);
+    color: white;
+}
+
+.sofa, .cama, .comoda{
+    background-color: rgb(77, 74, 74);
+    color: white;
+}
